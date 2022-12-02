@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PyQt5.uic" />
+          <option value="main.MyWidget.tableWidget" />
+          <option value="main.MyWidget.lineEdit" />
+          <option value="tool_shop_or_smth.MyWidget.tableWidget" />
+          <option value="tool_shop_or_smth.MyWidget.lineEdit" />
+          <option value="Lib.graphs.MyWidget.tableWidget" />
+          <option value="Lib.graphs.MyWidget.graphicsView" />
+          <option value="graphs.MyWidget.graphicsView" />
+          <option value="graphs.MyWidget.pushButton" />
+          <option value="graphs.MyWidget.label_2" />
+          <option value="graphs.MyWidget.progressBar" />
+          <option value="stocks_game.MyWidget.label_4" />
+          <option value="stocks_game.MyWidget.pushButton_2" />
+          <option value="stocks_game.MyWidget.pushButton" />
+          <option value="stocks_game.MyWidget.pushButton_3" />
+          <option value="stocks_game.MyWidget.pushButton_4" />
+          <option value="stocks_game.MyWidget.pushButton_6" />
+          <option value="stocks_game.MyWidget.*" />
+          <option value="stocks.MyWidget.currentRow" />
+          <option value="stocks.MyWidget.item" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
